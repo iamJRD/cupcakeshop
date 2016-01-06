@@ -2,3 +2,9 @@
   color: #F00;
   font-style: italic;
 }
+
+.best {
+  font-size: 20px;
+  font-weight: bolder;
+  color: #00FF08;
+}
